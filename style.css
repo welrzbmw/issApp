@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+#longitude,#lon,#lat,#latitude,#vel,#velocity {
+    color: white;
+    text-align: center;
+}
+#mapid{ 
+    margin: auto;
+    height: 300px; 
+    width: 1000px;
+}
